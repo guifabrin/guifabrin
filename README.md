@@ -10,6 +10,6 @@
 
 [![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=guifabrin&count_private=true&include_all_commits=true&theme=radical)](https://www.linkedin.com/in/guifabrin/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guifabrin&langs_count=100&layout=compact&v=5)](https://github.com/guifabrin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guifabrin&langs_count=100&layout=compact&v=6)](https://github.com/guifabrin/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=guifabrin)
