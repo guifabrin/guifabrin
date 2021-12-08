@@ -11,8 +11,7 @@
 ## Dynamic stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=guifabrin&count_private=true&show_icons=true)](#)
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=guifabrin)](#)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guifabrin&langs_count=10)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guifabrin&langs_count=5)](#)
 
 ![](https://komarev.com/ghpvc/?username=guifabrin)
 
