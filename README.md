@@ -9,11 +9,11 @@
 - ⚡ Fun fact - I was a Tango Dancer to pay graduation
 
 # Dynamic stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guifabrin&langs_count=5)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guifabrin&langs_count=5&v=1)](#)
 </br>
-[![Github stats](https://github-readme-stats.vercel.app/api?username=guifabrin&count_private=true&show_icons=true)](#)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=guifabrin&count_private=true&show_icons=true&v=1)](#)
 </br>
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=guifabrin)](#)
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=guifabrin&v=1)](#)
 
 ![](https://komarev.com/ghpvc/?username=guifabrin)
 
