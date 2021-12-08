@@ -15,6 +15,7 @@
 
 ![](https://komarev.com/ghpvc/?username=guifabrin)
 
+<a href="https://guifabrin.github.io/index.html" target="blank">Resumé</a>
 ## Social
 
 <p align="left">
