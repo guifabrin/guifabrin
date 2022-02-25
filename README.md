@@ -37,8 +37,6 @@
 
 <p>Software Analyst | May 2021 - Current</p>
 
-<p>Reports To: Ivan Aguirre</p>
-
 <p><b>Job Overview:</b> Outsourced performance in a partner client located in San Diego, California with a focus on
 	specific
 	software development for proprietary hardware</p>
@@ -59,8 +57,6 @@
 
 <p>Trainee Leader I | Oct 2020 - Mar 2021</p>
 
-<p><b>Reported to:</b> Valquiria Huttner</p>
-
 <p><b>Job Overview:</b> Expertise in people development.</p>
 
 <p><b>Responsibilities and Duties:</b> Assist developers in problem solving and understanding.</p>
@@ -70,8 +66,6 @@
 	Personal Leadership</p>
 
 <p>Software Developer II |&nbsp;Nov 2019 - Sep 2020</p>
-
-<p><b>Reported to:</b> Valquiria Huttner</p>
 
 <p><b>Job Overview:</b> Expertise in the development and maintenance of a HomeBroker system for financial brokers.</p>
 
@@ -111,8 +105,6 @@
 
 <p>Junior developer | Feb 2019 - Oct 2019</p>
 
-<p><b>Reported to:</b> Lucas Gerhardt</p>
-
 <p><b>Job Overview:</b> Expertise in the development and maintenance of educational systems.</p>
 
 <p><b>Qualifications:</b></p>
@@ -146,8 +138,6 @@
 		target="_blank">Confianca Software</a></h3>
 
 <p>Junior developer |&nbsp;Sep 2016 - Jun 2017</p>
-
-<p><b>Reported to:</b> Diogenes Kuchak and Jo&atilde;o Rocha</p>
 
 <p><b>Job Overview:</b> Expertise in the development and maintenance of an ERP and POS system</p>
 
